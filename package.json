@@ -1,0 +1,22 @@
+{
+  "name": "natours-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:scss": "node-sass sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadali9289/advance-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadali9289/advance-css/issues"
+  },
+  "homepage": "https://github.com/ahmadali9289/advance-css#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
