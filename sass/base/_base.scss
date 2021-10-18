@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    /* because we need it in percentage ( 10px/16px in % ) */
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
