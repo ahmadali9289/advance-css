@@ -45,6 +45,11 @@
     color: $color-grey;
 }
 
+.btn-green {
+    background-color: $color-green;
+    color: $color-white;
+}
+
 .btn-animated {
     animation: moveInBotton .6s ease-in .75;
     animation-fill-mode: backwards;
